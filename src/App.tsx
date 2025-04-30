@@ -131,7 +131,7 @@ function App() {
 
   return (
     <>
-      <div className="bg-l_green w-full p-[100px] flex flex-col items-center justify-center">
+      <div className="bg-l_green w-full py-[100px] flex flex-col items-center justify-center">
         <form
           action="#"
           onSubmit={handleSubmit}
